@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis justo a p
 
 ## Environments and Technologies Used
 
-* [Microsoft Azure](https://github.com/username/technology1)
+* [Microsoft Azure](azure.microsoft.com)
 * [Technology 2](https://github.com/username/technology2)
 * [Environment 1](https://github.com/username/environment1)
 * [Environment 2](https://github.com/username/environment2)
